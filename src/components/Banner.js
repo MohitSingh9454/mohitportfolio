@@ -121,7 +121,7 @@ const Banner = () => {
                 rel="noreferrer"
               >
                 <SiLeetcode /> {/* LeetCode icon */}
-              {/* </a> */}z */}
+              {/* </a> */}
             </motion.div>
           </div>
           {/*text*/}
