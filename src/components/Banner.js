@@ -104,15 +104,15 @@ const Banner = () => {
               className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0"
             >
               <a
-                href="https://www.linkedin.com/in/prem-aman/"
+                href="https://linkedin.com/in/mohit-singh-a4b4aa251/"
                 target="blank"
               >
                 <FaLinkedin />
               </a>
-              <a href="https://github.com/premaman10" target="blank">
+              <a href="https://github.com/MohitSingh9454" target="blank">
                 <FaGithub />
               </a>
-              <a href="https://x.com/PremAman17" target="blank">
+              {/* <a href="https://x.com/PremAman17" target="blank">
                 <FaTwitter />
               </a>
               <a
@@ -121,7 +121,7 @@ const Banner = () => {
                 rel="noreferrer"
               >
                 <SiLeetcode /> {/* LeetCode icon */}
-              </a>
+              {/* </a> */}z */}
             </motion.div>
           </div>
           {/*text*/}
